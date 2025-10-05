@@ -1,4 +1,4 @@
-# proje
+# `C-Algorithm-and-Struct-Examples
 
 # 📘 C Programlama Uygulamaları – Dizi İşlemleri ve Struct Kullanımı
 
